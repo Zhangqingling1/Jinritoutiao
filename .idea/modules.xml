@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Zhangqingling1506a0807.iml" filepath="$PROJECT_DIR$/Zhangqingling1506a0807.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appxlistview/appxlistview.iml" filepath="$PROJECT_DIR$/appxlistview/appxlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaoshi0812/kaoshi0812.iml" filepath="$PROJECT_DIR$/kaoshi0812/kaoshi0812.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaoshi0816/kaoshi0816.iml" filepath="$PROJECT_DIR$/kaoshi0816/kaoshi0816.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaoshi0817/kaoshi0817.iml" filepath="$PROJECT_DIR$/kaoshi0817/kaoshi0817.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaoshi8.15/kaoshi8.15.iml" filepath="$PROJECT_DIR$/kaoshi8.15/kaoshi8.15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaoshi8.9/kaoshi8.9.iml" filepath="$PROJECT_DIR$/kaoshi8.9/kaoshi8.9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianxi0808/lianxi0808.iml" filepath="$PROJECT_DIR$/lianxi0808/lianxi0808.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianxi0809/lianxi0809.iml" filepath="$PROJECT_DIR$/lianxi0809/lianxi0809.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slindingmenu/slindingmenu.iml" filepath="$PROJECT_DIR$/slindingmenu/slindingmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xlistview/xlistview.iml" filepath="$PROJECT_DIR$/xlistview/xlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhangqingging0808/zhangqingging0808.iml" filepath="$PROJECT_DIR$/zhangqingging0808/zhangqingging0808.iml" />
+    </modules>
+  </component>
+</project>

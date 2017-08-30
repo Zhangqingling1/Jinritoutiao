@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bawie.zhangqingling1506a0807.MainActivity"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#CE3031">
+
+        <ImageView
+            android:id="@+id/IV"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="?attr/touxiang" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="?attr/biaoti"
+            android:textColor="?attr/wenziyanse"
+            android:textSize="30dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:id="@+id/image_view1"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="?attr/tiao" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#cccccc">
+        <android.support.design.widget.TabLayout
+            android:id="@+id/TL"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            app:tabMode="scrollable"
+            >
+
+        </android.support.design.widget.TabLayout>
+    </LinearLayout>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/VP"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v4.view.ViewPager>
+
+</LinearLayout>

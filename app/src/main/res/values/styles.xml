@@ -1,0 +1,79 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Zao" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/white</item>
+        
+        <item name="beijingyanse">@color/white</item>
+        <!--<item name="wenzi">@string/baitian</item>-->
+        <item name="wenziyanse">@color/white</item>
+        <item name="wenziyanse1">#ff00</item>
+        <item name="qq">@drawable/qqri</item>
+        <item name="weixin">@drawable/weixinri</item>
+        <item name="weibo">@drawable/weibori</item>
+        <item name="shezhi">@drawable/shezhiri</item>
+        <item name="xiazai">@drawable/xiazairi</item>
+        <item name="moshi">@drawable/moshiri</item>
+        <item name="touxiang">@drawable/touxiangri</item>
+        <item name="sousuo">@drawable/sousuori</item>
+        <item name="shouji">@drawable/shoujiri</item>
+        <item name="biaoti">@drawable/jinritoutiaori</item>
+        <item name="tiao">@drawable/haha</item>
+        
+        <item name="dongtai">@drawable/dongtairi</item>
+        <item name="huati">@drawable/huatiri</item>
+        <item name="shoucang">@drawable/shoucangri</item>
+        <item name="huodong">@drawable/liwuri</item>
+        <item name="shangchang">@drawable/shangchengri</item>
+
+        <item name="shoujihao">@drawable/shoujihaori</item>
+        <item name="renrenwang">@drawable/renrenwangri</item>
+        <item name="koukoudenglu">@drawable/koukoudengluri</item>
+        <item name="weixindenglu">@drawable/weixindengluri</item>
+        <item name="xinlangweibo">@drawable/xinlangweibori</item>
+        <item name="tengxunweibo">@drawable/tengxunweibori</item>
+    </style>
+
+
+    <style name="Wan" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/background</item>
+        <item name="colorPrimaryDark">@color/dark_bg</item>
+        <item name="colorAccent">@color/dark_bg</item>
+        <item name="android:windowBackground">@color/unablebtn</item>
+
+        <item name="beijingyanse">@color/unablebtn</item>
+        <!--<item name="wenzi">@string/wanshang</item>-->
+        <item name="wenziyanse">@color/black</item>
+        <item name="wenziyanse1">@color/black</item>
+        <item name="qq">@drawable/qqye</item>
+        <item name="weixin">@drawable/weixinye</item>
+        <item name="weibo">@drawable/weiboye</item>
+        <item name="shezhi">@drawable/shezhiye</item>
+        <item name="xiazai">@drawable/xiazaiye</item>
+        <item name="moshi">@drawable/moshiye</item>
+        <item name="touxiang">@drawable/touxiangye</item>
+        <item name="sousuo">@drawable/sousuoye</item>
+        <item name="shouji">@drawable/shoujiye</item>
+        <item name="biaoti">@drawable/jinritoutiaoye</item>
+        <item name="tiao">@drawable/hahaye</item>
+
+        <item name="dongtai">@drawable/dongtaiye</item>
+        <item name="huati">@drawable/huatiye</item>
+        <item name="shoucang">@drawable/shoucangye</item>
+        <item name="huodong">@drawable/liwuye</item>
+        <item name="shangchang">@drawable/shangchengye</item>
+
+        <item name="shoujihao">@drawable/shoujihaoye</item>
+        <item name="renrenwang">@drawable/renrenwangye</item>
+        <item name="koukoudenglu">@drawable/koukoudengluye</item>
+        <item name="weixindenglu">@drawable/weixindengluye</item>
+        <item name="xinlangweibo">@drawable/xinlangweiboye</item>
+        <item name="tengxunweibo">@drawable/tengxunweiboye</item>
+    </style>
+
+</resources>
